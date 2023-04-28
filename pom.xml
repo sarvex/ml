@@ -38,7 +38,7 @@
     <commons-math.version>3.2</commons-math.version>
     <jcommander.version>1.35</jcommander.version>
     <solr.commons.csv.version>3.5.0</solr.commons.csv.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     
     <!-- Versions for plugins -->
     <assembly.plugin.version>2.4</assembly.plugin.version>
