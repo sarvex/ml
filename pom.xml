@@ -28,7 +28,7 @@
     <java.target.version>1.6</java.target.version>
 
     <!-- Versions for dependencies -->
-    <avro.version>1.7.4</avro.version>
+    <avro.version>1.11.5</avro.version>
     <hadoop.version>2.7.3.2.6.5.0-292</hadoop.version>
     <mahout.version>0.7-cdh4.6.0</mahout.version>
     <crunch.version>0.8.2+48-cdh4.6.0</crunch.version>
